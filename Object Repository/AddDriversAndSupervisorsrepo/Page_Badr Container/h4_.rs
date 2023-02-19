@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_</name>
+   <tag></tag>
+   <elementGuidId>85a78d3f-4ad1-4371-bf9e-f2aabd94dccc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/form/div/div[4]/label/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>bc1bf6ec-21de-4bcf-b6aa-5bc0c3e6507f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>رقم الإقامة </value>
+      <webElementGuid>048582f8-b14c-47f3-92bc-30759f9bf361</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/form[1]/div[@class=&quot;row col-lg-12 ibox float-e-margins ibox-content p-md&quot;]/div[@class=&quot;col-md-12 form-group float-e-margins&quot;]/label[@class=&quot;font-normal col-md-4&quot;]/h4[1]</value>
+      <webElementGuid>a27c6db1-6fe4-4f1a-8bc7-5acb7917e9f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/form/div/div[4]/label/h4</value>
+      <webElementGuid>dab14916-e4eb-462d-86e8-19b579eac1cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='فرع'])[1]/following::h4[1]</value>
+      <webElementGuid>169ed8ce-83bb-4efb-bbb6-58de2143a1d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الوظيفة'])[1]/following::h4[2]</value>
+      <webElementGuid>616d457b-5ea8-48e5-82d4-eaf8fc38a434</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تاريخ انتهاء الإقامة'])[1]/preceding::h4[1]</value>
+      <webElementGuid>b5625d29-20d8-415b-9d11-a31e722d4895</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الراتب'])[1]/preceding::h4[2]</value>
+      <webElementGuid>e1dee973-a946-4b29-9f1b-b6512947dba4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='رقم الإقامة']/parent::*</value>
+      <webElementGuid>1701afd5-7809-4ad5-85a7-a40ba12e30c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/label/h4</value>
+      <webElementGuid>da016b10-d8ad-49a1-91dd-0e90fda33c5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'رقم الإقامة ' or . = 'رقم الإقامة ')]</value>
+      <webElementGuid>94127fe4-5bd5-4d4c-85e5-0df5cd9c2364</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>انشاء تعاقد انقاض نقدى</description>
+   <name>CashRentruinsTC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42045333-5917-4ba5-95cd-a34add26ee75</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7f7ed682-42a5-4502-a37c-fcd1b60d85ed</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>7f7ed682-42a5-4502-a37c-fcd1b60d85ed</id>
+      <masked>true</masked>
+      <name>userName</name>
+   </variable>
+</TestCaseEntity>

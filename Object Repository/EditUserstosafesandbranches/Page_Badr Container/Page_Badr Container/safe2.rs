@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>safe2</name>
+   <tag></tag>
+   <elementGuidId>b6f45150-da23-47a0-b968-f3b93343eff0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>31c9678d-cf1c-44e2-a0af-3af3de05ca87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>خزينة الريان شبكة</value>
+      <webElementGuid>5660790b-3923-4caa-8fa3-50f29638e6ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[@class=&quot;row col-lg-12 ibox float-e-margins ibox-content text-center p-md&quot;]/form[1]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;form-group float-e-margins&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;col-md-6&quot;]/label[1]</value>
+      <webElementGuid>795f7de7-aa15-4862-ad7f-a411ed7aefe1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/form/div[8]/div/div/div[2]/label</value>
+      <webElementGuid>8911476b-9a41-40dd-9c04-2870eef5a520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='خزينة الريان النقدية'])[1]/following::label[1]</value>
+      <webElementGuid>5da07b4e-73ee-40f2-98dc-3a10d1feb719</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الخزن'])[3]/following::label[2]</value>
+      <webElementGuid>e571c2e4-64c3-4115-b8c3-5b34f65ea837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='حفظ'])[1]/preceding::label[1]</value>
+      <webElementGuid>abc4c5cb-95c3-4045-b2d2-56a14119c0c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::label[1]</value>
+      <webElementGuid>8d395496-bd23-4971-9cd6-2cf9cd72391c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='خزينة الريان شبكة']/parent::*</value>
+      <webElementGuid>7a1c2d61-323c-48f5-9e03-34bd837313c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/label</value>
+      <webElementGuid>db407c65-2ab6-4a5a-8dea-fc98cd1400c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'خزينة الريان شبكة' or . = 'خزينة الريان شبكة')]</value>
+      <webElementGuid>4685593f-ee6e-436a-aec0-1228f8a55474</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

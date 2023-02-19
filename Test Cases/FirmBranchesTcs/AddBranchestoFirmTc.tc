@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>adding new  Branches and safes to the firm</description>
+   <name>AddBranchestoFirmTc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4393d0e-2252-410a-8448-2caa63e7383f</testCaseGuid>
+</TestCaseEntity>

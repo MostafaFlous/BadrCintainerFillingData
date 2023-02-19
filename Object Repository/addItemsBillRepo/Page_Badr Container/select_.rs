@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_</name>
+   <tag></tag>
+   <elementGuidId>8dc5e625-cbfa-4374-8125-a3e317da4673</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#store_id</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='store_id']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>25e78764-3f50-4059-913b-38313226800b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>c3a6752a-4163-4fdb-8fd7-b82ea0f2c339</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>store_id</value>
+      <webElementGuid>402e0e85-b898-4383-b169-a51dcc35261f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>store_id</value>
+      <webElementGuid>5f8ce757-718c-4050-8f96-3ce93e964ac9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            اختر المخزن
+                                                            مخزن الريان
+                                                    </value>
+      <webElementGuid>812fe0da-807c-42f4-94dd-87dfeee6a061</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;store_id&quot;)</value>
+      <webElementGuid>407cbaa6-a6bc-4684-9711-aff3fd4e8713</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='store_id']</value>
+      <webElementGuid>0402a889-90f9-431c-8f8b-42a3451b20bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='bill-form']/div/div/div/div/select</value>
+      <webElementGuid>a0805884-9b2e-4ed0-bfd2-24c45e3f2e52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='المستودعات والمخازن'])[3]/following::select[1]</value>
+      <webElementGuid>4fc03873-82c7-4e5b-962a-ed5efa61e1a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='اضافة فاتورة'])[2]/following::select[1]</value>
+      <webElementGuid>26eb8c4c-ebdb-46af-8607-3c2717870b91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='التاريخ'])[1]/preceding::select[1]</value>
+      <webElementGuid>ce1c6416-5e0c-40d1-8678-be39656f0a5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='رقم فاتورة المورد'])[1]/preceding::select[1]</value>
+      <webElementGuid>8a3ee9db-ad6b-49b9-bc0c-cd76902967d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>a05b74c9-d0cb-4020-bf81-f2db85f93f5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'store_id' and @id = 'store_id' and (text() = '
+                            اختر المخزن
+                                                            مخزن الريان
+                                                    ' or . = '
+                            اختر المخزن
+                                                            مخزن الريان
+                                                    ')]</value>
+      <webElementGuid>f75bea7a-a7b3-4e6b-a837-b49bfe7b9ba5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

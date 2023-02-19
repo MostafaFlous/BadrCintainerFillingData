@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>اضافة مستودع جديد الى المؤسسة</description>
+   <name>addNewStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>71e347bf-1b6b-42e3-bf47-db3cab5e032b</testCaseGuid>
+</TestCaseEntity>

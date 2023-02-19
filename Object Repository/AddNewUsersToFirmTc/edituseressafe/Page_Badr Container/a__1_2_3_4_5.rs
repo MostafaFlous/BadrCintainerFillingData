@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a__1_2_3_4_5</name>
+   <tag></tag>
+   <elementGuidId>a1319228-6651-4a3d-a1a0-796affe83dc4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div[3]/div/table/tbody/tr[3]/td[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>51badf53-592a-4f82-b6fe-fbeb3961a177</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://albadrsupport.com/container-testing/user-permissions/3</value>
+      <webElementGuid>0458847c-d501-4be3-9b2b-c798c716e236</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-info</value>
+      <webElementGuid>ff076aa1-4185-4ffe-bbdf-3428baff6982</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+
+                                    الصلاحيات
+                                </value>
+      <webElementGuid>bf65a71b-993d-4cef-ac66-025643660910</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 ibox ibox-content&quot;]/table[@class=&quot;table table-hover table-bordered table-striped&quot;]/tbody[1]/tr[3]/td[6]/a[@class=&quot;btn btn-info&quot;]</value>
+      <webElementGuid>04e4dc65-6e1c-48f5-9820-77f014f173e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div[3]/div/table/tbody/tr[3]/td[6]/a</value>
+      <webElementGuid>7e35425a-6a92-47a5-878d-993bd0c34fec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'الصلاحيات')])[3]</value>
+      <webElementGuid>84b60ffa-1964-447b-a729-b6139394ff91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='حذف'])[3]/following::a[1]</value>
+      <webElementGuid>d743ab47-79df-4084-9154-9ad0958d5c58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تعديل'])[3]/following::a[1]</value>
+      <webElementGuid>8ef4541a-5b7c-4045-ae31-60641a2186c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://albadrsupport.com/container-testing/user-permissions/3')]</value>
+      <webElementGuid>aede49bc-5d42-4266-8c33-7c29a750042b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[6]/a</value>
+      <webElementGuid>e0f33622-d5f9-474c-a5ff-a8337794ca55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://albadrsupport.com/container-testing/user-permissions/3' and (text() = '
+
+                                    الصلاحيات
+                                ' or . = '
+
+                                    الصلاحيات
+                                ')]</value>
+      <webElementGuid>640dd16c-fbf5-4edd-ad58-151ff9064fa3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

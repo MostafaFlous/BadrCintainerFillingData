@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>اضافة سائق ومشرف الى النظام</description>
+   <name>AddDriversAndSupervisorsTc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a166da31-cc2f-40f2-a02b-96588cf96498</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_</name>
+   <tag></tag>
+   <elementGuidId>787a2f31-7bc6-41c0-9a11-eb1ab30051ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#item_type</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='item_type']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>cb8db99c-d7d9-46f9-a86e-9c860e6f0c91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>item_type</value>
+      <webElementGuid>517eeb9f-4758-4d6c-b348-74e3aa30e67f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>item_type</value>
+      <webElementGuid>63472f98-4768-4852-9e26-332a4528a419</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>620a3f78-11f6-4e3c-abf6-087c22c0365f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    خاص بالسيارات
+                                    صنف عام
+                                </value>
+      <webElementGuid>67e958b1-0a26-4799-ae6d-10366c895042</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;item_type&quot;)</value>
+      <webElementGuid>efe3c702-a839-44a6-a096-6a470c5cf096</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='item_type']</value>
+      <webElementGuid>6240242f-9e95-4290-8c1f-9885071f99fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='add_from']/div[4]/div/select</value>
+      <webElementGuid>4f7670ea-a167-46c2-8ffc-31b66877265f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='نوع الصنف'])[1]/following::select[1]</value>
+      <webElementGuid>fb5f76a3-b630-4940-aeea-b2ab8876da80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='نشط /غير نشط'])[1]/following::select[2]</value>
+      <webElementGuid>586f4156-5b1e-40ef-a0c9-4110487b00f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='حفظ'])[1]/preceding::select[1]</value>
+      <webElementGuid>5b4ef2d8-ca69-499f-8260-91f19ab1a2c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close'])[2]/preceding::select[1]</value>
+      <webElementGuid>1f3ed92a-bd5e-452c-8712-d841831f3c32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/select</value>
+      <webElementGuid>271d5211-726f-4f77-bcab-03c055b92cb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'item_type' and @id = 'item_type' and (text() = '
+                                    خاص بالسيارات
+                                    صنف عام
+                                ' or . = '
+                                    خاص بالسيارات
+                                    صنف عام
+                                ')]</value>
+      <webElementGuid>88aa058c-b9be-437c-b89f-216e89b0bcdd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

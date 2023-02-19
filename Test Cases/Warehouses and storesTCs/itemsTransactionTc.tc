@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>صرف اصناف يعد اضافة الصنف واضافة فاتورة للصنف من خلال المخزن ويجب وجود كمية للصنف من الفواتير قبل البدايه فى هذه الرحالة</description>
+   <name>itemsTransactionTc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>27373d14-f931-4aee-8ab1-4a13a26c2a8d</testCaseGuid>
+</TestCaseEntity>

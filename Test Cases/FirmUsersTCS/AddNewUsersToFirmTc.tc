@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>adding new users to the firm after adding safe and adding branches</description>
+   <name>AddNewUsersToFirmTc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7d91942-69c4-48d1-8330-526d9238ed0e</testCaseGuid>
+</TestCaseEntity>

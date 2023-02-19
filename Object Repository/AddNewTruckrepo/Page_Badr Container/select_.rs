@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_</name>
+   <tag></tag>
+   <elementGuidId>06336743-020a-4e0d-b69b-035062c15488</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#driver</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='driver']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>1a1aaf9e-00c8-4733-af18-5c59d1f316e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>driver</value>
+      <webElementGuid>73582519-1b25-441a-b2af-fe64886bcc78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>77bdec8c-b438-41e8-a84c-9272d67f9276</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>employee_id</value>
+      <webElementGuid>6b0853c2-afb6-4031-8113-5fd534042c22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oninvalid</name>
+      <type>Main</type>
+      <value>this.setCustomValidity('please select driver')</value>
+      <webElementGuid>94603d18-80b2-4987-bcd0-b4e0de889603</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oninput</name>
+      <type>Main</type>
+      <value>setCustomValidity('')</value>
+      <webElementGuid>2f0e2606-2ff5-4c57-8b2c-6736dc2ec0a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        اختر  السائق
+
+                                                                                                                                                                                    أسعد
+                                                                                                                                أشرف
+                                                                                                                                أمجد
+                                                                                                                                                                    </value>
+      <webElementGuid>2a065d86-b726-493d-9078-aa4a78bcf480</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;driver&quot;)</value>
+      <webElementGuid>8cf39a02-ebb1-44c1-94dc-df94c8614360</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='driver']</value>
+      <webElementGuid>321a00e1-9bc5-4643-b745-719b9da5fadb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div[2]/form/div[2]/div/select</value>
+      <webElementGuid>8e0a3c93-b066-4228-a5e4-8eef2b20d421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='السائق'])[1]/following::select[1]</value>
+      <webElementGuid>2c747aea-20d1-4a8b-b659-d347383573de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='رقم السيارة'])[1]/following::select[1]</value>
+      <webElementGuid>77a95e74-3f88-43d0-adfd-65d746a50772</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='فرع'])[1]/preceding::select[1]</value>
+      <webElementGuid>9975e912-1b20-4d44-9b3c-ba4f10b368f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تبديل القماشات'])[1]/preceding::select[2]</value>
+      <webElementGuid>d04e8253-0268-4afd-855f-240ea944b58b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>2976ca75-e88d-4259-b993-6a8ec15d569a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'driver' and @name = 'employee_id' and (text() = '
+                        اختر  السائق
+
+                                                                                                                                                                                    أسعد
+                                                                                                                                أشرف
+                                                                                                                                أمجد
+                                                                                                                                                                    ' or . = '
+                        اختر  السائق
+
+                                                                                                                                                                                    أسعد
+                                                                                                                                أشرف
+                                                                                                                                أمجد
+                                                                                                                                                                    ')]</value>
+      <webElementGuid>27c31be2-6937-4c94-b606-9ac6933e255d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

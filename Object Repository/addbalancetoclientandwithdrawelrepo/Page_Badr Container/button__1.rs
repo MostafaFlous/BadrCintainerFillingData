@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button__1</name>
+   <tag></tag>
+   <elementGuidId>69c97761-b4d9-4516-af0f-c09d8e2bdcc1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.add_balance.btn.btn-info</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='removable2']/td[10]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a38bc659-c20e-4a9a-9c9a-e0d08492de8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-clientname</name>
+      <type>Main</type>
+      <value>سعفان</value>
+      <webElementGuid>1c9d578a-4187-41c8-9338-6efa36d28bde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-clientid</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>f572202f-3fb5-4d95-98f0-9fbd1573a8d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>add_balance btn btn-info</value>
+      <webElementGuid>0d446e93-7002-410d-90d7-796196f71691</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>اضافة رصيد</value>
+      <webElementGuid>32c2ce21-b043-4a05-a323-46b33cbb58c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;removable2&quot;)/td[10]/button[@class=&quot;add_balance btn btn-info&quot;]</value>
+      <webElementGuid>7aff23cc-3af7-4563-8d3f-5ed57c92ff62</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='removable2']/td[10]/button</value>
+      <webElementGuid>da6e35bf-e479-4ca7-bee6-7cc9b3d3fdd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='نشط'])[1]/following::button[1]</value>
+      <webElementGuid>3e49e84c-58d6-402a-91fc-7c1670a846a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الجبيل'])[1]/following::button[1]</value>
+      <webElementGuid>c066bbca-e39c-48ba-9e6a-c0f57d8a3693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='سحب رصيد'])[2]/preceding::button[1]</value>
+      <webElementGuid>510ce73e-75cb-46c9-a408-65dd3b3395dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تعديل'])[1]/preceding::button[2]</value>
+      <webElementGuid>d2d53c38-84bb-4bed-8125-3d62c2822601</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[10]/button</value>
+      <webElementGuid>e99f3299-b1c5-4505-899b-7555bd182d17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'اضافة رصيد' or . = 'اضافة رصيد')]</value>
+      <webElementGuid>c2655f98-2a70-4954-83e5-0edd1c84f24c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

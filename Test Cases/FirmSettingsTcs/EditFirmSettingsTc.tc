@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>edit firm(establishment) Settings for new data</description>
+   <name>EditFirmSettingsTc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a8be327-4520-4cab-9865-2bb6e9c089b3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d159dc43-7ca7-4dbb-9147-01e262270727</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8566415c-6fd1-4769-9e33-b58c3bc2350b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b5c56cd6-5cae-4e07-95f1-7a12d6114fbf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://albadrsupport.com/container-testing/login'</defaultValue>
+      <description></description>
+      <id>d159dc43-7ca7-4dbb-9147-01e262270727</id>
+      <masked>true</masked>
+      <name>baseURL</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>8566415c-6fd1-4769-9e33-b58c3bc2350b</id>
+      <masked>true</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'tzH6RvlfSTg='</defaultValue>
+      <description></description>
+      <id>b5c56cd6-5cae-4e07-95f1-7a12d6114fbf</id>
+      <masked>true</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

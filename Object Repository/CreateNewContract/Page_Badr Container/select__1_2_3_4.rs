@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select__1_2_3_4</name>
+   <tag></tag>
+   <elementGuidId>ac84ba93-caf8-497b-b091-3dc20edf1351</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#supervisor</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='supervisor']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9ffe8696-cf09-4eb2-a453-865b081f7eb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>supervisor</value>
+      <webElementGuid>025fc244-1efc-4936-b766-b6cd4849e1ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>bcecb701-e7ce-4eaf-a1d0-32355114aace</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>supervisor_id</value>
+      <webElementGuid>238f97e3-15ee-4375-9fcd-963aa3a89df7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oninvalid</name>
+      <type>Main</type>
+      <value>this.setCustomValidity('please select the supervisor')</value>
+      <webElementGuid>de60365f-d97b-46ef-8ff9-059f7046023e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oninput</name>
+      <type>Main</type>
+      <value>setCustomValidity('')</value>
+      <webElementGuid>a5d4e8e3-8f8d-4de5-8205-15fe7a3fd7f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            اختر مشرف
+                                                                                                                                        امين
+                                        
+                                                                                                                                                                                            </value>
+      <webElementGuid>865d8dda-b7d2-4dea-bb88-5b49b15e9873</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;supervisor&quot;)</value>
+      <webElementGuid>f44bac6c-5495-433f-8c56-8ad4ffa78617</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='supervisor']</value>
+      <webElementGuid>9cafe4a2-802f-4a09-be71-387a62124ccf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form-cash']/div[8]/div[8]/div/select</value>
+      <webElementGuid>ec85cc90-93b7-46b9-96c8-b7ddcb6fac95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='المشرف'])[2]/following::select[1]</value>
+      <webElementGuid>03f21d72-8a7b-47dd-af92-5fa3f83d33f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الخزينة'])[1]/following::select[2]</value>
+      <webElementGuid>675d0a02-6c3c-4029-9e8a-a5b6a439b248</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='العمولة'])[3]/preceding::select[1]</value>
+      <webElementGuid>b0c11e26-6e6e-4c32-a820-9c93e00e5027</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='السائق'])[2]/preceding::select[1]</value>
+      <webElementGuid>0d8bc910-1286-4161-a178-0ad780ee09dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[8]/div/select</value>
+      <webElementGuid>6d0905e8-e0eb-4489-9381-b1ba9c99e621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'supervisor' and @name = 'supervisor_id' and (text() = '
+                            اختر مشرف
+                                                                                                                                        امين
+                                        
+                                                                                                                                                                                            ' or . = '
+                            اختر مشرف
+                                                                                                                                        امين
+                                        
+                                                                                                                                                                                            ')]</value>
+      <webElementGuid>1fe74209-fbaf-4694-b39d-0e176cf92a04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
