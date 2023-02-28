@@ -34,7 +34,7 @@ WebUI.setText(findTestObject('Object Repository/addItemsBillRepo/Page_Badr Conta
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/addItemsBillRepo/Page_Badr Container/select__1'), '3', true)
 
-WebUI.doubleClick(findTestObject('Object Repository/addItemsBillRepo/Page_Badr Container/input__price'))
+WebUI.click(findTestObject('Object Repository/addItemsBillRepo/Page_Badr Container/input__price'))
 
 WebUI.setText(findTestObject('Object Repository/addItemsBillRepo/Page_Badr Container/input__price'), '500')
 
@@ -46,7 +46,7 @@ WebUI.click(findTestObject('Object Repository/addItemsBillRepo/Page_Badr Contain
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/addItemsBillRepo/Page_Badr Container/select__1'), '4', true)
 
-WebUI.doubleClick(findTestObject('Object Repository/addItemsBillRepo/Page_Badr Container/input__price'))
+WebUI.click(findTestObject('Object Repository/addItemsBillRepo/Page_Badr Container/input__price'))
 
 WebUI.setText(findTestObject('Object Repository/addItemsBillRepo/Page_Badr Container/input__price'), '1000')
 
@@ -56,19 +56,7 @@ WebUI.setText(findTestObject('Object Repository/addItemsBillRepo/Page_Badr Conta
 
 WebUI.click(findTestObject('Object Repository/addItemsBillRepo/Page_Badr Container/a__1'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/addItemsBillRepo/Page_Badr Container/select__1'), '5', true)
-
-WebUI.doubleClick(findTestObject('Object Repository/addItemsBillRepo/Page_Badr Container/input__price'))
-
-WebUI.setText(findTestObject('Object Repository/addItemsBillRepo/Page_Badr Container/input__price'), '300')
-
-WebUI.doubleClick(findTestObject('Object Repository/addItemsBillRepo/Page_Badr Container/input__quantity'))
-
-WebUI.setText(findTestObject('Object Repository/addItemsBillRepo/Page_Badr Container/input__quantity'), '10')
-
-WebUI.click(findTestObject('Object Repository/addItemsBillRepo/Page_Badr Container/a__1'))
-
-WebUI.doubleClick(findTestObject('Object Repository/addItemsBillRepo/Page_Badr Container/input__price'))
+WebUI.click(findTestObject('Object Repository/addItemsBillRepo/Page_Badr Container/input__price'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/addItemsBillRepo/Page_Badr Container/select__1'), '6', true)
 
@@ -86,7 +74,7 @@ WebUI.setText(findTestObject('Object Repository/addItemsBillRepo/Page_Badr Conta
 
 WebUI.click(findTestObject('Object Repository/addItemsBillRepo/Page_Badr Container/a__1'))
 
-WebUI.click(findTestObject('Object Repository/addItemsBillRepo/Page_Badr Container/button__1'))
+WebUI.click(findTestObject('addItemsBillRepo/Page_Badr Container/button__1'))
 
 WebUI.closeBrowser()
 

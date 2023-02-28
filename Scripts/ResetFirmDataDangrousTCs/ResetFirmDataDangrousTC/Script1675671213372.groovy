@@ -17,15 +17,27 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('LoginTcs/LoginTC'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.openBrowser('')
 
-WebUI.click(findTestObject('Object Repository/Page_Badr Container/a_'))
+WebUI.navigateToUrl('https://albadrsupport.com/container-testing/login')
 
-WebUI.click(findTestObject('Object Repository/Page_Badr Container/a__1'))
+WebUI.setText(findTestObject('Object Repository/ResetFirmDataDangrousTCsrepo/Page_Badr Container/Page_Badr Container/input__username'), 
+    'admin')
 
-WebUI.click(findTestObject('Object Repository/Page_Badr Container/button_'))
+WebUI.setEncryptedText(findTestObject('Object Repository/ResetFirmDataDangrousTCsrepo/Page_Badr Container/Page_Badr Container/input__password'), 
+    'tzH6RvlfSTg=')
 
-WebUI.click(findTestObject('Object Repository/Page_Badr Container/button__1'))
+WebUI.click(findTestObject('Object Repository/ResetFirmDataDangrousTCsrepo/Page_Badr Container/Page_Badr Container/button_'))
+
+WebUI.click(findTestObject('Object Repository/ResetFirmDataDangrousTCsrepo/Page_Badr Container/Page_Badr Container/span_'))
+
+WebUI.click(findTestObject('Object Repository/ResetFirmDataDangrousTCsrepo/Page_Badr Container/Page_Badr Container/a_'))
+
+WebUI.click(findTestObject('Object Repository/ResetFirmDataDangrousTCsrepo/Page_Badr Container/Page_Badr Container/button__1'))
+
+WebUI.click(findTestObject('Object Repository/ResetFirmDataDangrousTCsrepo/Page_Badr Container/Page_Badr Container/button__1_2'))
+
+WebUI.delay(3)
 
 WebUI.closeBrowser()
 

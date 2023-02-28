@@ -23,6 +23,206 @@ WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Containe
 
 WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_'))
 
+WebUI.setText(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__number'), 'BMW 111')
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/select_'), '2', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/select__1'), '1', true)
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__kamashat_change_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_14'))
+
+WebUI.setText(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__read_now'), '2000')
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__battery_change_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_14'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__ghatas_air_from_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_14'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/div_'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__cover_change_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_15'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__ghatas_air_to_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_14'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__air_condition_change_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_21'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__end_deal_paper_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_15'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__end_insurance_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_21'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__end_work_card_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_21'))
+
+WebUI.setText(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__notes'), 'اضافة شاحنه جديده')
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/button__1'))
+
+WebUI.setText(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__number'), 'BMW 222')
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/select_'), '2', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/select__1'), '1', true)
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__kamashat_change_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_14'))
+
+WebUI.setText(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__read_now'), '2000')
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__battery_change_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_14'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__ghatas_air_from_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_14'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/div_'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__cover_change_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_15'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__ghatas_air_to_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_14'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__air_condition_change_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_21'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__end_deal_paper_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_15'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__end_insurance_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_21'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__end_work_card_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_21'))
+
+WebUI.setText(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__notes'), 'اضافة شاحنه جديده')
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/button__1'))
+
+WebUI.setText(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__number'), 'BMW 333')
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/select_'), '2', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/select__1'), '1', true)
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__kamashat_change_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_14'))
+
+WebUI.setText(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__read_now'), '2000')
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__battery_change_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_14'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__ghatas_air_from_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_14'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/div_'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__cover_change_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_15'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__ghatas_air_to_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_14'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__air_condition_change_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_21'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__end_deal_paper_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_15'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__end_insurance_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_21'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__end_work_card_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_21'))
+
+WebUI.setText(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__notes'), 'اضافة شاحنه جديده')
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/button__1'))
+
+WebUI.setText(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__number'), 'BMW 444')
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/select_'), '2', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/select__1'), '1', true)
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__kamashat_change_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_14'))
+
+WebUI.setText(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__read_now'), '2000')
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__battery_change_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_14'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__ghatas_air_from_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_14'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/div_'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__cover_change_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_15'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__ghatas_air_to_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_14'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__air_condition_change_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_21'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__end_deal_paper_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_15'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__end_insurance_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_21'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__end_work_card_date'))
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/a_21'))
+
+WebUI.setText(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__notes'), 'اضافة شاحنه جديده')
+
+WebUI.click(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/button__1'))
+
 WebUI.setText(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/input__number'), 'BMW 555')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/AddNewTruckrepo/Page_Badr Container/select_'), '2', true)
