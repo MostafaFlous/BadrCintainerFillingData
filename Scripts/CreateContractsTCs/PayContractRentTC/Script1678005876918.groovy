@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://albadrsupport.com/container-testing/login')
 
+WebUI.maximizeWindow()
+
 WebUI.setText(findTestObject('Object Repository/PayContractRepo/Page_Badr Container/input__username'), 'admin')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/PayContractRepo/Page_Badr Container/input__password'), 'tzH6RvlfSTg=')
