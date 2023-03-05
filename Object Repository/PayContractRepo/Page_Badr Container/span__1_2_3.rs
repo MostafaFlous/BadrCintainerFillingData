@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__1_2_3</name>
+   <tag></tag>
+   <elementGuidId>00df4c81-40e5-4dd4-be35-12eaa00d7742</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div[2]/form/div[2]/div/div/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.filter-option.pull-left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4b310ab7-2a27-40aa-8855-8883d4ba07b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filter-option pull-left</value>
+      <webElementGuid>a3a906aa-bb71-4ab1-96fa-2c836ee6db42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>اختر عميل ...</value>
+      <webElementGuid>b01ede93-a725-4024-b45f-7a51a0e5dc6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[@class=&quot;row col-lg-12 ibox float-e-margins ibox-content text-center p-md&quot;]/form[1]/div[@class=&quot;col-md-12 form-group float-e-margins&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;btn-group bootstrap-select&quot;]/div[@class=&quot;btn-group bootstrap-select&quot;]/button[@class=&quot;btn dropdown-toggle bs-placeholder btn-default&quot;]/span[@class=&quot;filter-option pull-left&quot;]</value>
+      <webElementGuid>6e56b501-145e-45b3-969d-ed9cdd71493c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div[2]/form/div[2]/div/div/div/button/span</value>
+      <webElementGuid>8c0169db-a50b-4119-a19b-96ec694e6ab9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='اسم العميل'])[1]/following::span[1]</value>
+      <webElementGuid>9179f676-ea82-4d1e-90cd-7216e5d779e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تاريخ السداد'])[1]/following::span[2]</value>
+      <webElementGuid>5e065dfc-a84f-486d-bb3b-f3b126259e9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='شعبان'])[1]/preceding::span[3]</value>
+      <webElementGuid>0024ad0f-32d2-4983-8ab7-f9368a3c25ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='سعفان'])[1]/preceding::span[5]</value>
+      <webElementGuid>89e5f93f-cb88-4a09-8826-fe0fc781b8ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='اختر عميل ...']/parent::*</value>
+      <webElementGuid>6cd147d3-7132-47aa-90ca-b1d44abfe181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>d6e6d12a-e3b5-4d75-adf9-c7acdf4547dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'اختر عميل ...' or . = 'اختر عميل ...')]</value>
+      <webElementGuid>aedd2bea-cb4a-4a79-9ff2-2f31a31a2ec6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

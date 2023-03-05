@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a__1</name>
+   <name>button_</name>
    <tag></tag>
-   <elementGuidId>ff9aa9f9-e454-43f5-b331-f5ddabdd24da</elementGuidId>
+   <elementGuidId>ac37b77b-d7de-4940-81a4-25d0eee537fc</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.pull-right</value>
+         <key>XPATH</key>
+         <value>//tr[@id='removable2']/td[11]/button</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='حفظ'])[2]/following::a[1]</value>
+         <key>CSS</key>
+         <value>button.withdrawal_balance.btn.btn-danger</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,109 +21,111 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>ad8a0031-dd19-4d9a-859b-d0b9a0436acd</webElementGuid>
+      <value>button</value>
+      <webElementGuid>7a35d71d-01fa-4ff9-92d9-7e37e5125382</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-clientbalance</name>
+      <type>Main</type>
+      <value>14,100.00</value>
+      <webElementGuid>4138e200-ebfe-4c9f-a68a-3c2de7601c17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-clientname</name>
+      <type>Main</type>
+      <value>سعفان</value>
+      <webElementGuid>d2e9a75f-9675-4455-b388-b6d541032fb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-clientid</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>672c0836-8c5f-47a0-809f-0c528cbc6bdf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>pull-right</value>
-      <webElementGuid>837aaaf7-f545-429a-adc3-0f9e25ff0bfe</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-toggle</name>
-      <type>Main</type>
-      <value>modal</value>
-      <webElementGuid>d8fddfff-342f-4024-8258-ca654bcc69c0</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-target</name>
-      <type>Main</type>
-      <value>#myModal2</value>
-      <webElementGuid>31ad21c3-79e1-4c93-a195-07ab352c2406</webElementGuid>
+      <value>withdrawal_balance btn btn-danger</value>
+      <webElementGuid>fae43e8b-1e0f-4075-bc6d-37a417d97822</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> 
-                        اضافة صنف
-                    </value>
-      <webElementGuid>d199a2c8-66f3-4709-baf9-33f79f357629</webElementGuid>
+      <value>سحب رصيد</value>
+      <webElementGuid>9798d557-1e7b-4a5b-b5f1-ec14358fbce5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;container&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 ibox float-e-margins ibox-content text-center p-md&quot;]/div[@class=&quot;col-md-6&quot;]/a[@class=&quot;pull-right&quot;]</value>
-      <webElementGuid>956bdd69-cdd6-40f5-af03-0405b1a5a705</webElementGuid>
+      <value>id(&quot;removable2&quot;)/td[11]/button[@class=&quot;withdrawal_balance btn btn-danger&quot;]</value>
+      <webElementGuid>f7f8768b-cdcf-4644-b10c-dd71792c7a3a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='container']/div[3]/div/div/a</value>
-      <webElementGuid>b16e76a5-7099-40f9-a6d7-71f665a595af</webElementGuid>
+      <value>//tr[@id='removable2']/td[11]/button</value>
+      <webElementGuid>0a35fe7c-7430-4257-ad34-dda154850bb3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='حفظ'])[2]/following::a[1]</value>
-      <webElementGuid>f492994f-8ff0-4821-9a0b-9c5d99837433</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='اضافة رصيد'])[2]/following::button[1]</value>
+      <webElementGuid>18eb5603-5743-4224-9edb-3d439f4c9144</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='نوع الصنف'])[2]/following::a[1]</value>
-      <webElementGuid>9aaffd18-77f1-45c8-8469-744e7506dace</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='نشط'])[1]/following::button[2]</value>
+      <webElementGuid>aee68d65-c615-4a49-b5f6-7d4fe36a1169</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='#'])[1]/preceding::a[1]</value>
-      <webElementGuid>8a53e133-132e-4462-a318-d344b1ced886</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تعديل'])[1]/preceding::button[1]</value>
+      <webElementGuid>78a553d0-f85a-40c1-9305-c5af451e55f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='الاسم بالعربية'])[3]/preceding::a[1]</value>
-      <webElementGuid>fac20825-d3c6-431c-9a5a-12e4eef532b8</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تغيير الحالة'])[1]/preceding::button[1]</value>
+      <webElementGuid>6f912529-a24d-4cbd-8764-ad9c1929fa9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/a</value>
-      <webElementGuid>9be417ac-5175-4bac-a385-4fd36a69dc7d</webElementGuid>
+      <value>//td[11]/button</value>
+      <webElementGuid>ef683145-4aa6-45c8-90b9-0278d170f59c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[(text() = ' 
-                        اضافة صنف
-                    ' or . = ' 
-                        اضافة صنف
-                    ')]</value>
-      <webElementGuid>97873240-bf89-4e35-85cc-479f6c1f0be7</webElementGuid>
+      <value>//button[(text() = 'سحب رصيد' or . = 'سحب رصيد')]</value>
+      <webElementGuid>8d1fe5f4-68ed-4661-a597-9cb663b208db</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

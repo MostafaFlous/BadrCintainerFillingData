@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>سحب رصيد من العميل</description>
+   <name>SubBalanceFromClientTC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>115a5c3b-3be4-4e34-a460-69ad8e00ee00</testCaseGuid>
+</TestCaseEntity>

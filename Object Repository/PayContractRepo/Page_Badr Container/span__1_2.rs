@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__1_2</name>
+   <tag></tag>
+   <elementGuidId>d4a8c057-8f80-4ac5-bcea-738fb5a689ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='side-menu']/li[6]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>634d63d0-0f55-4391-8b5f-5c32299d781c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-label</value>
+      <webElementGuid>d4a9b72e-0ef6-4bbb-82e1-e94157f89f29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>تسجيل سداد عميل
+                                </value>
+      <webElementGuid>479a788d-31be-437f-8450-65b12202a16f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;side-menu&quot;)/li[@class=&quot;&quot;]/a[1]/span[@class=&quot;nav-label&quot;]</value>
+      <webElementGuid>7e2b2d39-86e6-4a31-8c91-9d2797cea0fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='side-menu']/li[6]/a/span</value>
+      <webElementGuid>9f83bf63-af5b-4926-b99a-74c0b1606f47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تبديل حاوية'])[1]/following::span[1]</value>
+      <webElementGuid>b37fae38-b302-494a-b0dc-666e177a62be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تفريغ حاوية'])[1]/following::span[2]</value>
+      <webElementGuid>f8700ce5-9757-41a2-89ee-119690b81034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تسجيل سداد عميل'])[2]/preceding::span[2]</value>
+      <webElementGuid>7b82a249-df69-41cb-b98a-8580ab2b2429</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تسجيل سداد عقد مفتوح'])[1]/preceding::span[3]</value>
+      <webElementGuid>fb81abd8-56b4-41c8-b64e-0be09dd0e8f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='تسجيل سداد عميل']/parent::*</value>
+      <webElementGuid>6301a738-2fb2-4211-81aa-0d3b05bfee4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a/span</value>
+      <webElementGuid>aeb7f82f-f2e4-42c2-872e-9e6159bde486</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'تسجيل سداد عميل
+                                ' or . = 'تسجيل سداد عميل
+                                ')]</value>
+      <webElementGuid>f7d5701e-5f71-4500-b1a7-7e9e684378db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

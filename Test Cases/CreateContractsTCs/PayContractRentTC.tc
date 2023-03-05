@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>تسجيل سداد على عقد</description>
+   <name>PayContractRentTC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a648f8a-7b05-4336-a4a1-7647134baf39</testCaseGuid>
+</TestCaseEntity>

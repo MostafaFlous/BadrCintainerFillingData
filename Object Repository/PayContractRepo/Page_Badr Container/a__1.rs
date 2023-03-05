@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a__1</name>
+   <tag></tag>
+   <elementGuidId>485a6653-178b-41a1-8e47-43c8c332a7aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='side-menu']/li[6]/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.nav.nav-second-level.collapse.in > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>550376ff-5d0d-454c-8701-681de500d679</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://albadrsupport.com/container-testing/ClientPayment</value>
+      <webElementGuid>b8f9c584-f65a-4738-9d75-98b4ae72adbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> تسجيل سداد عميل</value>
+      <webElementGuid>f5027220-67c7-4069-a0f4-6d481da63fa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;side-menu&quot;)/li[@class=&quot;active&quot;]/ul[@class=&quot;nav nav-second-level collapse in&quot;]/li[1]/a[1]</value>
+      <webElementGuid>49558ed1-876d-44f3-90a5-c713c7584ed0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='side-menu']/li[6]/ul/li/a</value>
+      <webElementGuid>f0b562c7-c80d-4f92-94a7-cb8027179fd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تسجيل سداد عميل'])[1]/following::a[1]</value>
+      <webElementGuid>a9cc6f32-0615-4a5b-9b53-102552bc9674</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تبديل حاوية'])[1]/following::a[2]</value>
+      <webElementGuid>79edcd9f-d2fa-4258-b26a-7bab42511540</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تسجيل سداد عقد مفتوح'])[1]/preceding::a[1]</value>
+      <webElementGuid>1f020116-a18d-4694-bbe3-083e3f5389cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://albadrsupport.com/container-testing/ClientPayment')]</value>
+      <webElementGuid>13df4088-7be3-456a-9f04-0a1ac9bfa31e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/ul/li/a</value>
+      <webElementGuid>9667630b-39ef-4b70-839d-07eb87c8b10b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://albadrsupport.com/container-testing/ClientPayment' and (text() = ' تسجيل سداد عميل' or . = ' تسجيل سداد عميل')]</value>
+      <webElementGuid>b3093a34-6ae1-46f8-86aa-601e2267a2a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

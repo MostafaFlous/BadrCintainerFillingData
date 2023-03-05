@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a__1</name>
+   <name>button__1</name>
    <tag></tag>
-   <elementGuidId>ff9aa9f9-e454-43f5-b331-f5ddabdd24da</elementGuidId>
+   <elementGuidId>ccb81f4a-6a97-42dd-8f82-a3b63563b77f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.pull-right</value>
+         <key>XPATH</key>
+         <value>//button[@id='save_print']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='حفظ'])[2]/following::a[1]</value>
+         <key>CSS</key>
+         <value>#save_print</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,109 +21,114 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>ad8a0031-dd19-4d9a-859b-d0b9a0436acd</webElementGuid>
+      <value>button</value>
+      <webElementGuid>76c2907c-4d45-4670-ad80-c728007520a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>pull-right</value>
-      <webElementGuid>837aaaf7-f545-429a-adc3-0f9e25ff0bfe</webElementGuid>
+      <value>col-md-2 btn  btn-success</value>
+      <webElementGuid>c4458416-52f2-4716-a94a-46d06ccd0546</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-toggle</name>
+      <name>id</name>
       <type>Main</type>
-      <value>modal</value>
-      <webElementGuid>d8fddfff-342f-4024-8258-ca654bcc69c0</webElementGuid>
+      <value>save_print</value>
+      <webElementGuid>709ba9e5-b69f-42d5-89fc-0d3319ee6992</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>data-target</name>
+      <name>type</name>
       <type>Main</type>
-      <value>#myModal2</value>
-      <webElementGuid>31ad21c3-79e1-4c93-a195-07ab352c2406</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>b485e683-3b8e-4450-9ff6-893af1baec57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> 
-                        اضافة صنف
-                    </value>
-      <webElementGuid>d199a2c8-66f3-4709-baf9-33f79f357629</webElementGuid>
+      <value>حفظ
+                </value>
+      <webElementGuid>2b934d43-ec00-46ef-9238-144c36a1789d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;container&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 ibox float-e-margins ibox-content text-center p-md&quot;]/div[@class=&quot;col-md-6&quot;]/a[@class=&quot;pull-right&quot;]</value>
-      <webElementGuid>956bdd69-cdd6-40f5-af03-0405b1a5a705</webElementGuid>
+      <value>id(&quot;save_print&quot;)</value>
+      <webElementGuid>b6e18e05-3c02-4a23-abbd-b0c4289fd008</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='save_print']</value>
+      <webElementGuid>887317ce-ed09-4b64-91b8-aca1baa69ff6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='container']/div[3]/div/div/a</value>
-      <webElementGuid>b16e76a5-7099-40f9-a6d7-71f665a595af</webElementGuid>
+      <value>//div[@id='container']/div[2]/form/div[11]/button</value>
+      <webElementGuid>ad8e573b-7808-4b7d-bc13-e832e1683734</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='حفظ'])[2]/following::a[1]</value>
-      <webElementGuid>f492994f-8ff0-4821-9a0b-9c5d99837433</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ملاحظات'])[1]/following::button[1]</value>
+      <webElementGuid>bbc128ab-48c7-4cf3-a38d-554a2b114df9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='نوع الصنف'])[2]/following::a[1]</value>
-      <webElementGuid>9aaffd18-77f1-45c8-8469-744e7506dace</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الى'])[1]/following::button[1]</value>
+      <webElementGuid>5b05481d-7925-4ae5-bf2b-3730590d2423</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='#'])[1]/preceding::a[1]</value>
-      <webElementGuid>8a53e133-132e-4462-a318-d344b1ced886</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'save_print', '&quot;', ')')])[1]/preceding::button[1]</value>
+      <webElementGuid>3d99986c-9813-457e-b25d-2b851996b3b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='الاسم بالعربية'])[3]/preceding::a[1]</value>
-      <webElementGuid>fac20825-d3c6-431c-9a5a-12e4eef532b8</webElementGuid>
+      <value>//*/text()[normalize-space(.)='حفظ']/parent::*</value>
+      <webElementGuid>af91d8e9-48c4-46c9-84f5-67791ee606d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/a</value>
-      <webElementGuid>9be417ac-5175-4bac-a385-4fd36a69dc7d</webElementGuid>
+      <value>//div[11]/button</value>
+      <webElementGuid>51470ab4-fdbb-4a2c-a569-b2b81a7a23c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[(text() = ' 
-                        اضافة صنف
-                    ' or . = ' 
-                        اضافة صنف
-                    ')]</value>
-      <webElementGuid>97873240-bf89-4e35-85cc-479f6c1f0be7</webElementGuid>
+      <value>//button[@id = 'save_print' and @type = 'submit' and (text() = 'حفظ
+                ' or . = 'حفظ
+                ')]</value>
+      <webElementGuid>d44176a8-5115-49af-b90b-33e6b7ae8c8e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

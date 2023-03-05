@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>اضافة رصيد للعميل</description>
+   <name>AddBalanceToTheClientTC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b52d87b0-0d84-4f0b-83a4-a10f9ed9174f</testCaseGuid>
+</TestCaseEntity>

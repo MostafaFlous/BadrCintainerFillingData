@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i__fa fa-calendar</name>
+   <tag></tag>
+   <elementGuidId>53c60b08-bdf4-4622-8de9-c2375b8945e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div[2]/form/div/div/div/div/div/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-calendar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c1e128de-9c84-4cee-a5d6-94a99eed2e2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-calendar</value>
+      <webElementGuid>315ef7e9-335e-4c87-8251-2b76a4ebacd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[@class=&quot;row col-lg-12 ibox float-e-margins ibox-content text-center p-md&quot;]/form[1]/div[@class=&quot;col-md-12 form-group float-e-margins&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;input-group date&quot;]/span[@class=&quot;input-group-addon&quot;]/i[@class=&quot;fa fa-calendar&quot;]</value>
+      <webElementGuid>228e4a92-2364-4d01-a80c-f768f6cecc8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div[2]/form/div/div/div/div/div/span/i</value>
+      <webElementGuid>c70e9e8e-3a67-4814-a623-de73eade9df6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/i</value>
+      <webElementGuid>bf5a41d2-3577-45f0-9804-c498bd3069c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

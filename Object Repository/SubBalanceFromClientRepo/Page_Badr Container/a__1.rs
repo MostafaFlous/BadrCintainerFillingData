@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a__1</name>
+   <tag></tag>
+   <elementGuidId>2602c4d7-dc28-46f2-be92-752e52b665df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='side-menu']/li[15]/ul/li[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5abdffdd-fa10-48cc-8b3b-54784ce02fb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://albadrsupport.com/container-testing/AddClient</value>
+      <webElementGuid>e1507cad-f240-4ffd-b52d-df5898a8681f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>إضافة عميل</value>
+      <webElementGuid>3a71a299-52fa-4eeb-9b51-9c45360b2c57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;side-menu&quot;)/li[@class=&quot;active&quot;]/ul[@class=&quot;nav nav-second-level collapse in&quot;]/li[6]/a[1]</value>
+      <webElementGuid>f216b12d-6d96-4609-a76c-624ee26053cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='side-menu']/li[15]/ul/li[6]/a</value>
+      <webElementGuid>0d2e68bf-74f0-4ebd-a798-72a090e9d3c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'إضافة عميل')]</value>
+      <webElementGuid>84587268-a555-4108-900e-fd144cc24c3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='إضافة موظف'])[1]/following::a[1]</value>
+      <webElementGuid>9163b137-7325-4485-8c6f-e98d27be0b09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='إضافة حاوية'])[1]/following::a[2]</value>
+      <webElementGuid>fb49bd7c-a61c-46a3-abdc-277a03a3d8a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='الضرائب'])[2]/preceding::a[2]</value>
+      <webElementGuid>8d7b3dba-3430-4595-b569-1b42fdaaa7a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='إضافة عميل']/parent::*</value>
+      <webElementGuid>ad04554a-d199-42ff-8bba-8e69d07cdd12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://albadrsupport.com/container-testing/AddClient')]</value>
+      <webElementGuid>6f868bd5-8840-4ab0-9f26-85922834d899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[15]/ul/li[6]/a</value>
+      <webElementGuid>84b17bbc-b38c-4e32-8666-6a2ab7c83d7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://albadrsupport.com/container-testing/AddClient' and (text() = 'إضافة عميل' or . = 'إضافة عميل')]</value>
+      <webElementGuid>e79747b8-2ee2-468e-aa99-332515fd737b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
