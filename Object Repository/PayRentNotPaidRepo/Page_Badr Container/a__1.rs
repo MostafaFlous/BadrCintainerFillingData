@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a__1</name>
+   <tag></tag>
+   <elementGuidId>9d62faf0-8d3e-402c-ad23-03f90658a68e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='side-menu']/li[11]/ul/li[3]/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b6c4131e-3a5f-4626-a196-f1dc77f95b4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://albadrsupport.com/container-testing/deferredRentsReport</value>
+      <webElementGuid>73856d95-2fa6-4330-87a0-e08872685950</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>تقرير الايجارات الآجلة</value>
+      <webElementGuid>2a3357c1-80da-4310-810d-998cbaa07a64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;side-menu&quot;)/li[@class=&quot;active&quot;]/ul[@class=&quot;nav nav-second-level collapse in&quot;]/li[@class=&quot;active&quot;]/ul[@class=&quot;nav nav-second-level collapse in&quot;]/li[4]/a[1]</value>
+      <webElementGuid>4d14f233-05ee-42fe-879d-c6cefc87dd19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='side-menu']/li[11]/ul/li[3]/ul/li[4]/a</value>
+      <webElementGuid>e13ea63c-e8e1-464e-89de-234bf9952df4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'تقرير الايجارات الآجلة')]</value>
+      <webElementGuid>df820129-10b5-47ec-91af-08089fd40aaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تقرير رصيد عميل'])[1]/following::a[1]</value>
+      <webElementGuid>5ad33c10-ffa1-4aa3-bc50-0043e216f4a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تقرير مديونية عميل'])[1]/following::a[2]</value>
+      <webElementGuid>3c89776d-396f-4457-92dd-ea3d4d89e4cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تقرير مبيعات'])[1]/preceding::a[1]</value>
+      <webElementGuid>a663c802-2848-4407-b23d-510909073a8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='تقرير العقود'])[1]/preceding::a[2]</value>
+      <webElementGuid>ad19751a-96d5-43dd-aa3c-593796ae2ebe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='تقرير الايجارات الآجلة']/parent::*</value>
+      <webElementGuid>d27450eb-bfa9-4289-939c-6ab07906f686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://albadrsupport.com/container-testing/deferredRentsReport')]</value>
+      <webElementGuid>8af41c42-64f5-4e56-a93d-2ba9c6ced0e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li[4]/a</value>
+      <webElementGuid>49948d87-22fc-400c-8eb5-0bf8ba161c0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://albadrsupport.com/container-testing/deferredRentsReport' and (text() = 'تقرير الايجارات الآجلة' or . = 'تقرير الايجارات الآجلة')]</value>
+      <webElementGuid>7f112cc0-606f-4f2e-b747-8c06462239aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
