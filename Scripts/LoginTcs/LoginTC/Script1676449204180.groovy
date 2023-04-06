@@ -19,11 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://albadrsupport.com/container-testing/login')
+WebUI.navigateToUrl('https://albadrsupport.com/container-v6/login')
 
-WebUI.setText(findTestObject('Object Repository/LoginRepo/Page_Badr Container/input__username'), 'admin')
+WebUI.setText(findTestObject('Object Repository/LoginRepo/Page_Badr Container/input__username'), 'flous')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/LoginRepo/Page_Badr Container/input__password'), 'tzH6RvlfSTg=')
+WebUI.setEncryptedText(findTestObject('Object Repository/LoginRepo/Page_Badr Container/input__password'), 'aeHFOx8jV/A=')
 
 WebUI.click(findTestObject('Object Repository/LoginRepo/Page_Badr Container/button_'))
 

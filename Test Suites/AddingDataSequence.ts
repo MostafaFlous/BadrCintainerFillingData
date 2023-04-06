@@ -12,27 +12,6 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>9899761b-fdcb-4b62-97e9-6400cea37229</testSuiteGuid>
    <testCaseLink>
-      <guid>3f75c253-fde8-4fcf-a2b5-f3b197e6e96c</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/FirmBranchesTcs/AddBranchestoFirmTc</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>2c976c2e-3ab2-4133-86f4-3a7f33fc74a2</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/AddandSafestoFirmTcs/AddSafestoFirmTc</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>c7aca5d2-c1f2-4e04-b957-ff16fb373d43</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/FirmUsersTCS/EditUsersSafeAndBranchTC</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>0ddc5708-bf84-4e11-8e98-28d084c5b1b5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
